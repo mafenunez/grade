@@ -1,0 +1,154 @@
+---
+pagetitle: "GRADE - Hallazgos"
+author: "María Fernanda Núñez"
+knitr:
+  opts_chunk: 
+    collapse: true
+    comment: "#>" 
+    R.options:
+      knitr.graphics.auto_pdf: true
+      
+format: 
+  revealjs:
+    #logo: images/Imagen2.png
+    #footer: <img src='coes2.png' alt='Logo' style='height:100px;'>
+    slide-number: true
+    theme: [pp.scss]
+    title-slide-attributes:
+      visibility: false
+    transition: slide
+    transition-speed: slow
+#      data-background-image: images/portada.jpg
+#      data-background-size: cover
+    auto-play-media: true
+
+
+editor:
+  render-on-save: true
+---
+
+## {data-background-color="#1E2D59"}
+
+
+:::: {.columns .v-center-container}
+::: {.column width=5%}
+:::
+::: {.column width=95%}
+# [**Hallazgos preliminares: <br> Corresponsabilidad comunitaria**]{.black}
+
+------------------------------------------------------------------------
+
+GRADE
+
+08 de enero de 2026
+:::
+::::
+
+## [Índice]{.black}
+
+:::: columns
+
+::: {.column width="50%"}
+
+::: {.content-box-purple}
+I. **Debate e investigaciones**
+
+a. Debate conceptual
+
+b. Investigaciones empíricas
+:::
+:::
+
+
+::: {.column width="50%"}
+::: {.content-box-purple}
+II . **Enfoques de investigación**
+
+a. Desde la política pública
+
+b. Desde la experiencia comunitaria
+:::
+:::
+::::
+
+# [I. Debate e investigaciones]{.white}{data-background-color="#44322F"}
+
+## [**Debate conceptual**]{.black} 
+
+- **Comunes reproductivos / Estados de bienestar** (Vega-Solis, 2019)
+  - Lo común se define como todo aquello que genera responsabilidad compartida y sentido de coobligación política respecto de una misma actividad o un bien. 
+  - Si bien la perspectiva de Federecci es incompatible con la mirada pública, estas autoras integran de forma crítica la idea de lo comunitaria para entenderla en la organización social del cuidado. 
+
+
+## [**Debate conceptual**]{.black} 
+
+- **Social care / Community care** 
+  - Cuando se observa la organziación social del cuidado se trata del enfoque del social care, cuando se implica se implica a la comunidad el social care (asistencia social) debe ser pensado en términos de community care (cuidado comunitario).
+  - La orientación de estos servicios sociales hacia el community care, tuvo un retroceso por el giro asistencialista de los años 80, limitaron el apoyo público (pensado como ayuda residual para quienes carecían de vínculos de parentesco)   
+  
+
+## [**Debate conceptual**]{.black} 
+  
+- **Organzación social de los cuidados y el cuarto polo** (Vega-Solis y Martiniez-Bujan, 2017)
+  - Diamente de los cuidados (Ravazi, 2007)
+  - Se ha entendido como: Sector del voluntariado (Daly y Lewis, 2000); Sector sin ánimo de lucro (Razavi, 2007); Tercer sector (Maino y Ferrera, 2013); y Moreno-Colom (2019) entiende la comunidad como una realidad heterogénea marcada por relaciones sociales horizontales donde predomina la lógica de la interdependencia.  
+
+
+## [**Debate conceptual**]{.black} 
+
+
+- **Responsabilidad pública y responsabilidad comunitaria** (Moreno-Colom, 2021)
+  -  Enfatiza en la idea de responsabilidad comunitaria en la administración pública. La cual si bien no la define explícitamente, refiere a la implicación de la comunidad en la distribución de los cuidados. Esta autora busca responder a la siguiente pregunta: ¿cuál es la capacidad de las políticas locales para definir espacios comunitarios de cuidados?
+  - Se ha encargado de realizar estudios de caso de políticas en Barcelona que integran a la comunidad, en donde discute sus implicancias con la idea de corresponsabilidad entre Estado y comunidad. En general, lo que propone es entender un equilibrio entre el ámbito público, profesional y comunitario, en donde se presente un incentivo de lo público a la responsabilidad comunitaria.  
+
+
+
+
+
+## [**Investigaciones empíricas**]{.black} 
+- **Proyecto Radars, Barcelona** (Moreno, 2018)
+  - El proyecto se inscribe en esta línea de actuaciones donde el trabajo comunitario se caracteriza por el hecho de contar con las personas mayores como uno de los colectivos prioritarios. En parte, estas actuaciones se plantean desde el nuevo paradigma de promoción del envejecimiento activo mediante el fomento de las redes comunitarias. 
+  - Se trata de una red de acción y prevención comunitaria promovida por el ayuntamiento y un conjunto de entidades colaboradoras donde participan vecinos, comerciantes, voluntarios y profesionales de las asociaciones y servicios públicos vinculados a los diferentes territorios. El conjunto de estos actores se coordina para ayudar y facilitar la permanencia de las personas mayores en su hogar. 
+
+## [**Investigaciones empíricas**]{.black} 
+
+- **Superilles Socials, Barcelona** (Moreno-Colom, 2021)
+  - Piloto de un nuevo modelo de gestión del Servicio de Atención Domiciliaria impulsado desde el Ayuntamiento de Barcelona bajo el concepto de las Superilles Socials.
+  - Interés analítico: las posibilidades de impulsar lo común desde lo público y en el equilibrio de responsabilidad entre agentes.
+  - Hipótesis: las acciones realizadas desde la política pública pueden contribuir a fomentar el papel de la comunidad en la organización social de los cuidados, así como la profesionalización del trabajo de atención a la dependencia.
+  
+  
+## [**Investigaciones empíricas**]{.black} 
+
+- **Centros de atención a largo plazo (ELEAM), Chile** (Flores et al., 2025)
+  -  Los centros de atención a largo plazo (ELEAM) están altamente concentrados en la región central del país y en municipios con mayores niveles de ingresos, lo que genera marcadas asimetrías geográficas (Villalobos, 2018 ). Este desajuste espacial entre la demanda y la oferta puede reflejar una falla del mercado: los servicios se concentran en mercados urbanos rentables, mientras que los municipios rurales y más pobres se enfrentan a "mercados faltantes" donde existe demanda, pero no se satisface debido a la baja rentabilidad.
+  - Equidad y accesibilidad espacial. 
+
+
+
+
+# [II. Enfoques de investigación]{.white}{data-background-color="#44322F"}
+
+
+## [**Desde la política pública**]{.black}
+
+Moreno-Colom (2021): 
+
+- Equilibrio entre el ámbito público, profesional y comunitario 
+- Incentivo de lo público a la responsabilidad comunitaria 
+
+
+
+## [**Desde la experiencia comunitaria**]{.black}
+
+- **Redes de apoyo mutuo para asegurar la superviviencia y reproducción social de algunos colectivos**
+  - "Debilidades del sistema de bienestar español, su carácter normativo implícito y las limitaciones del mercado privado al tiempo que desgrana las vicisitudes y dilemas que atraviesa esta red a la hora de sortear las presentes constricciones. Monteros concluye que esta fórmula ha conseguido organizar nuevas dinámicas alejadas de la familia tradicional y la sobrecarga femenina. La capacidad del grupo para asentar criterios justos, reflexionar y decidir sobre las alternativas (que incluyen la contratación de otras personas) y adaptarse a los deseos de sus distintos miembros" (Montero)
+
+## [**Desde la experiencia comunitaria**]{.black}
+
+- **Bancos de tiempos para intercambio de bienes y servicios**
+  - "instrumento, instaurado en la década de 1980, en la gestión igualitaria del cuidado. El banco emerge como un mecanismo clave para lograr una socialización de los cuidados que supere los ejes público-privado-familia o estatal- mercantil"(Moral)
+  
+- **Mecanismos de cuidados de personas mayores en el entorno de residencias auto-gestionadas**
+  - "agrupaciones, integradas por colectivos especialmente vulnerables como el de trabajadoras del hogar
+migrantes, son capaces de rearmar luchas colectivas. Algunas de estas asociaciones han organizado espacios de auto-cuidado que mitigan los riesgos sociales derivados de pertenecer a una minoría social y de incrustarse en un sector laboral escasamente regulado." (Draper)
