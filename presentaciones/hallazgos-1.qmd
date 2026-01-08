@@ -77,13 +77,14 @@ b. Desde la experiencia comunitaria
 
 - **Comunes reproductivos / Estados de bienestar** (Vega-Solis, 2019)
   - Lo común se define como todo aquello que genera responsabilidad compartida y sentido de coobligación política respecto de una misma actividad o un bien. 
+  - “la reproducción común (o el común reproductivo) es un hilo histórico para rastrear el desarrollo del Estado liberal, benefactor, de bienestar y neoliberal, las modalidades de familia, y la creciente mercantilización e internacionalización de los cuidados y su estratificación de género, origen y raza.”
   - Si bien la perspectiva de Federecci es incompatible con la mirada pública, estas autoras integran de forma crítica la idea de lo comunitaria para entenderla en la organización social del cuidado. 
 
 
 ## [**Debate conceptual**]{.black} 
 
 - **Social care / Community care** 
-  - Cuando se observa la organziación social del cuidado se trata del enfoque del social care, cuando se implica se implica a la comunidad el social care (asistencia social) debe ser pensado en términos de community care (cuidado comunitario).
+  - La organziación social del cuidado se trata del enfoque del social care, cuando se implica a la comunidad el social care (asistencia social) debe ser pensado en términos de community care (cuidado comunitario).
   - La orientación de estos servicios sociales hacia el community care, tuvo un retroceso por el giro asistencialista de los años 80, limitaron el apoyo público (pensado como ayuda residual para quienes carecían de vínculos de parentesco)   
   
 
@@ -152,3 +153,30 @@ Moreno-Colom (2021):
 - **Mecanismos de cuidados de personas mayores en el entorno de residencias auto-gestionadas**
   - "agrupaciones, integradas por colectivos especialmente vulnerables como el de trabajadoras del hogar
 migrantes, son capaces de rearmar luchas colectivas. Algunas de estas asociaciones han organizado espacios de auto-cuidado que mitigan los riesgos sociales derivados de pertenecer a una minoría social y de incrustarse en un sector laboral escasamente regulado." (Draper)
+
+
+# [Textos]{.white}{data-background-color="#44322F"}
+
+## [**Texto similar**]{.black}
+
+<br>
+
+***Construyendo comunidad desde lo público el caso de las Superilles Socials* (Moreno-Colom, 2021)**
+
+- Revista Española de Sociología (RES) 
+
+
+## [**Textos relevantes**]{.black}
+
+- *Cuidado, comunidad y común Extracciones, apropiaciones y sostenimiento de la vida* (Vega-Solis, Martinez-Bujan y Paredes Chauca, 2018)
+  - Cap. 6: *La acción comunitaria y los cuidados a domicilio* (Moreno-Colom)
+  - Cap 7: *Tejer cuidados a micro y macro escala entro lo públñico y lo común* (Draper)
+  - Cap 9: *Ayuda mutua y Estado de Bienestar. Reflexiones a partir de la experiencia del «Grupo de apoyo Daniel Wagman»* (Monteros)
+
+- *Explorando el lugar de lo comunitario en los estudios de género sobre sostenibilidad, reproducción y cuidados* (Vega-Solis y Martinez-Bujan, 2017)
+
+- *Reproducción social y cuidados en la reinvención de lo común. Aportes conceptuales y analíticos desde los feminismos* (Vega-Solis, 2019)
+
+- RES Vol. 30 Ním. 2 (2021): Monográfico de Cuidados, sección especial dedicada a Erik Olin Wright, debate sobre Ingreso Mínimo Vital, más artículos de miscelánea y reseñas
+
+
